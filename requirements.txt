@@ -1,0 +1,4 @@
+dpkt==1.9.1
+httpagentparser==1.8.1
+scapy==2.4.0
+netifaces=0.10.7
