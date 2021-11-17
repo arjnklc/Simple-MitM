@@ -1,4 +1,4 @@
-# Automated ARP Poison Tool
+# Simple-MitM
 Performs man in the middle attack to the specified target IP and saves the intercepted network traffic as ".pcap" file then analyzes it to extract visited websites, possible credentials, target information etc.
 
 
